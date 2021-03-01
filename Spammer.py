@@ -2,6 +2,7 @@ import pyautogui
 from time import sleep
 import random
 
+# Don't complain about the error thing. i wrote the script in 5 mins for fun purposes. you can modify it
 try:
     print("\n\n1) Enter whatever you want!\n2) Random words\n\nPls Keep your cursor where ever you want the bot to type\n\n")
 
