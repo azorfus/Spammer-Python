@@ -1,4 +1,3 @@
-<h1>Requires Python3
-Feel free to copy it
-requirements: pyautogui
-Wrote by Azorfus on 01/03/2021</h1>
+Feel free to copy it<br></br>
+requirements: python3, pyautogui
+<h3>Wrote by Azorfus on 01/03/2021</h3>
